@@ -1,0 +1,12 @@
+mcp>=2.1.1
+
+# Required on macOS and Linux for mouse control
+# Also needed on Windows for image/OCR targeting modes
+# pyautogui>=0.9.54
+# pillow>=10.0.0
+
+# Optional — confidence-based image matching
+# opencv-python>=4.8.0
+
+# Optional — OCR text targeting
+# pytesseract>=0.3.10
